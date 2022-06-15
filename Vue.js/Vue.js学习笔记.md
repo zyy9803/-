@@ -160,7 +160,7 @@ new Vue({
 // => "a is: 1"
 ```
 
-<img src="https://cn.vuejs.org/images/lifecycle.png" style="zoom: 33%;" />
+<img src="https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/8/19/16ca74f183827f46~tplv-t2oaga2asx-zoom-in-crop-mark:1304:0:0:0.awebp" style="zoom: 300%;" />
 
 
 
